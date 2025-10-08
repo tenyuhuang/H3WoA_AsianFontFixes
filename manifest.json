@@ -1,11 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.9.0",
+	"version": "1.0.0",
 	"id": "tenyuhuang.AsianFontFixes",
 	"name": "Asian Font Fixes",
 	"description": "Fixing various display issues for Asian character in Hitman WoA",
 	"authors": ["tenyuhuang"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.25.1",
+	"frameworkVersion": "2.33.31",
 	"updateCheck": "https://github.com/tenyuhuang/H3WoA_AsianFontFixes/releases/latest/download/updates.json"
 }
